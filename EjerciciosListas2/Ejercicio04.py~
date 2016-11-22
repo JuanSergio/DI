@@ -1,0 +1,10 @@
+"""
+Escriba un programa que calcule términos de una sucesión del tipo U​ n+1​ = a U​ n​ + b. El programa
+tiene que pedir el valor de a, de b y del término U​ 0​ y el número de términos a calcular.
+Cálculo de términos de una sucesión U(n+1)=a.U(n)+b.
+Dígame el valor de a: 2
+Dígame el valor de b: -1
+Dígame el valor de U(0): 3
+Dígame cuántos términos quieres: 8
+Los términos de la sucesión son: [3, 5, 9, 17, 33, 65, 129, 257]
+"""

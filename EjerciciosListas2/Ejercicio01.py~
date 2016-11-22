@@ -1,0 +1,11 @@
+"""
+Escriba un programa que permita crear una lista de palabras y que, a continuación, ordene la
+lista por orden alfabético.
+Dígame cuántas palabras tiene la lista: 4
+Dígame la palabra 1: Carmen
+Dígame la palabra 2: Alberto
+Dígame la palabra 3: Daniel
+Dígame la palabra 4: Benito
+La lista creada es: ['Carmen', Alberto', 'Daniel', 'Benito']
+La lista odenada es: ['Alberto', 'Benito', 'Carmen', 'Daniel']
+"""
